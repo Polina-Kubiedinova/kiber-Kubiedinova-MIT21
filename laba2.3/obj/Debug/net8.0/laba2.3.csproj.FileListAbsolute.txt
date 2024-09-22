@@ -1,0 +1,15 @@
+C:\polina\yniver\kiber\laba2.3\bin\Debug\net8.0\laba2.3.exe
+C:\polina\yniver\kiber\laba2.3\bin\Debug\net8.0\laba2.3.deps.json
+C:\polina\yniver\kiber\laba2.3\bin\Debug\net8.0\laba2.3.runtimeconfig.json
+C:\polina\yniver\kiber\laba2.3\bin\Debug\net8.0\laba2.3.dll
+C:\polina\yniver\kiber\laba2.3\bin\Debug\net8.0\laba2.3.pdb
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.AssemblyInfoInputs.cache
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.AssemblyInfo.cs
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.csproj.CoreCompileInputs.cache
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.sourcelink.json
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.dll
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\refint\laba2.3.dll
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.pdb
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\laba2.3.genruntimeconfig.cache
+C:\polina\yniver\kiber\laba2.3\obj\Debug\net8.0\ref\laba2.3.dll
