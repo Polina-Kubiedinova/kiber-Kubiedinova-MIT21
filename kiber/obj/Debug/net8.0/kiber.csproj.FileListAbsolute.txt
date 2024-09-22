@@ -1,0 +1,14 @@
+C:\polina\yniver\kiber\kiber\bin\Debug\net8.0\kiber.exe
+C:\polina\yniver\kiber\kiber\bin\Debug\net8.0\kiber.deps.json
+C:\polina\yniver\kiber\kiber\bin\Debug\net8.0\kiber.runtimeconfig.json
+C:\polina\yniver\kiber\kiber\bin\Debug\net8.0\kiber.dll
+C:\polina\yniver\kiber\kiber\bin\Debug\net8.0\kiber.pdb
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.GeneratedMSBuildEditorConfig.editorconfig
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.AssemblyInfoInputs.cache
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.AssemblyInfo.cs
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.csproj.CoreCompileInputs.cache
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.dll
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\refint\kiber.dll
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.pdb
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\kiber.genruntimeconfig.cache
+C:\polina\yniver\kiber\kiber\obj\Debug\net8.0\ref\kiber.dll
