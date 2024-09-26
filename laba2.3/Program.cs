@@ -17,8 +17,8 @@ namespace laba2._3
         }
         static void Main(string[] args)
         {
-            string encFileName = "C:\\polina\\yniver\\kiber\\laba2.1\\data.dat";
-            //string encFileName = "C:\\polina\\yniver\\kiber\\laba2.3\\encfile5.dat";
+            //string encFileName = "C:\\polina\\yniver\\kiber\\laba2.1\\data.dat";
+            string encFileName = "C:\\polina\\yniver\\kiber\\laba2.3\\encfile5.dat";
             byte[] encryptedData = File.ReadAllBytes(encFileName);
             byte[] passwordBytes = Encoding.UTF8.GetBytes("Mit21");
             //byte[] Bytes = new byte[passwordBytes.Length];
