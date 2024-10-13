@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("kiber")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("laba4.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba718cb422e10137ca886f1f8e914a529e15fd00")]
-[assembly: System.Reflection.AssemblyProductAttribute("kiber")]
-[assembly: System.Reflection.AssemblyTitleAttribute("kiber")]
+[assembly: System.Reflection.AssemblyProductAttribute("laba4.2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("laba4.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
